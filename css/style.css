@@ -1,0 +1,89 @@
+.navbar {
+  background-color: #080135;
+}
+
+.d-sm-inline-block {
+  background-color: #ffe484;
+}
+
+.bd-masthead {
+  height: 100vh;
+  background: rgb(187, 101, 240);
+  background: linear-gradient(0deg, rgba(187, 101, 240, 0.6225840678) 0%, rgba(245, 242, 225, 0.8354692219) 100%);
+}
+
+.highlight {
+  background-color: #e1e1e9;
+  border-radius: 5px;
+  height: 50px;
+  text-align: center;
+  padding: 10px;
+}
+
+.bi, me-2 {
+  height: 30px;
+  width: 50px;
+}
+
+.mb-3 {
+  padding: 0px;
+}
+
+.col-md-8 {
+  padding: 100px;
+}
+
+.masthead-followup-icon {
+  background-color: #e1e1e9;
+  height: 70px;
+  width: -webkit-fit-content;
+  width: -moz-fit-content;
+  width: fit-content;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.highlight {
+  background-color: #eeeef1;
+  margin: 10px;
+  margin-top: 0%;
+}
+
+#navbol {
+  background-color: #eeeef1;
+  height: 450px;
+  border-radius: 8px;
+}
+
+#navbo {
+  background-color: #eeeef1;
+  height: 200px;
+  border-radius: 8px;
+}
+
+#color:active {
+  color: red;
+  background-color: red;
+}
+
+#another {
+  height: 220px;
+}
+
+#ferrary {
+  height: 255px;
+}
+
+#marn {
+  height: 350px;
+}
+
+#moon {
+  height: 240px;
+  width: 77vh;
+}
+
+.list-unstyled a {
+  color: black;
+  text-decoration: none;
+}/*# sourceMappingURL=style.css.map */
